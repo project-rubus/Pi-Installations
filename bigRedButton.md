@@ -1,4 +1,4 @@
-# Big Red Button
+# Big Red Button (or the Squid Button)
 
 See [here](https://github.com/simonmonk/squid)
 
