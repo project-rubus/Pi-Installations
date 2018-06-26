@@ -24,7 +24,7 @@ import time
 
 GPIO.setmode(GPIO.BCM)
 
-GPIO.setup(25, GPIO.IN, pull_up_down=GPIO.PUD_UP
+GPIO.setup(25, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 while True:
     i = GPIO.input(25)
