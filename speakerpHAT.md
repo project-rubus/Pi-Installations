@@ -16,4 +16,4 @@ See [here](https://shop.pimoroni.com/products/speaker-phat)
   5. `./setup.sh speaker-phat`
  
 ## What I have to do:
-  Somehow, I have to run `curl -sS https://get.pimoroni.com/speakerphat`, but it says `We can't connect to the Internet`. I imagine the firewall doesn't like the `curl` command.
+  Somehow, I have to run `curl -sS https://get.pimoroni.com/speakerphat`, but it says `We can't connect to the Internet`. This is purely do to something being modified locally on the Pi
