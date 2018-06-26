@@ -1,5 +1,12 @@
 # Speaker pHAT
 
+See [here](https://shop.pimoroni.com/products/speaker-phat)
+
+## Interesting websites
+
+  * [https://shop.pimoroni.com/products/speaker-phat](https://shop.pimoroni.com/products/speaker-phat)
+  * [https://github.com/pimoroni/speaker-phat](https://github.com/pimoroni/speaker-phat)
+
 ## Commands I ran:
   1. `sudo apt-get install build-essential autoconf automake libtool libasound2-dev libfftw3-dev wiringpi`
   2. `git clone https://github.com/pimoroni/pivumeter`
