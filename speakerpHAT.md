@@ -6,6 +6,7 @@ See [here](https://shop.pimoroni.com/products/speaker-phat)
 
   * [https://shop.pimoroni.com/products/speaker-phat](https://shop.pimoroni.com/products/speaker-phat)
   * [https://github.com/pimoroni/speaker-phat](https://github.com/pimoroni/speaker-phat)
+  * [https://github.com/pimoroni/pivumeter](https://github.com/pimoroni/pivumeter)
 
 ## Commands I ran:
   1. `sudo apt-get install build-essential autoconf automake libtool libasound2-dev libfftw3-dev wiringpi`
