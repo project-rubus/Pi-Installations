@@ -17,4 +17,4 @@ See [here](https://shop.pimoroni.com/products/touch-phat)
  
 ## Comments
 
-It seems that I need to run `curl` for any Pimoroni device to work, but it is blocked here. I'll try it at home.
+It seems that I need to run `curl`. 
