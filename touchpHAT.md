@@ -13,7 +13,7 @@ See [here](https://shop.pimoroni.com/products/touch-phat)
  2. `pimoroni-dashboard` This was simply calling `curl`
  3. `sudo apt-get remove pimoroni`
  4. `sudo apt-get install python3-touchphat`
- 5. Then I uninstalled it with `sudo apt-get remove python3-touchphat
+ 5. Then I uninstalled it with `sudo apt-get remove python3-touchphat`
  
 ## Comments
 
