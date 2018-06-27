@@ -1,7 +1,6 @@
 # Speaker pHAT
 
-See [here](https://shop.pimoroni.com/products/speaker-phat)
-
+See [here](https://shop.pimoroni.com/products/speaker-phat). Unfortunately, the speaker itself does not work on a Raspian system, which is what is used by the Raspberry Pi I'm using. Only the 10 LEDs work.
 ## Interesting websites
 
   * [https://shop.pimoroni.com/products/speaker-phat](https://shop.pimoroni.com/products/speaker-phat)
