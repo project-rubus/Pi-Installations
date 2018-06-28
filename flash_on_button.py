@@ -1,3 +1,11 @@
+"""
+Program that flashes the Bright Pi camera LEDs when the Squid button is pressed.
+
+Setup:
+    - Bright Pi connected to 5, 6, 7 & 8
+    - Squid button connected to 25 & 23
+"""
+
 from brightpi import *
 import RPi.GPIO as GPIO
 import time
